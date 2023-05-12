@@ -11,6 +11,6 @@ main(){
 	printf("\n Area of Triangle=%d",tri); 
 	printf("\n Enter The Value Of r:");
 	scanf("%d",&r);
-	cir=22/7*r*r;
+	cir=3.14*r*r;
 	printf("Area Of Circle =%f",cir);
 }
